@@ -1,2 +1,2 @@
-# object-detecion
+# object- detection
 object detecion with Cnn
